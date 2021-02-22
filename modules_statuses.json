@@ -1,0 +1,17 @@
+{
+    "Administrators": true,
+    "Analytics": true,
+    "Auth": true,
+    "Comments": true,
+    "Core": true,
+    "Common": true,
+    "Footers": true,
+    "Images": true,
+    "Links": true,
+    "Logs": true,
+    "Pages": true,
+    "Panel": true,
+    "Posts": true,
+    "Terms": true,
+    "Users": true
+}
