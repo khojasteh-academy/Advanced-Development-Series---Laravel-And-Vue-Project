@@ -1,0 +1,14 @@
+{
+    "name": "Links",
+    "alias": "links",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Links\\Providers\\LinksServiceProvider",
+        "Modules\\Links\\Providers\\LinksModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
